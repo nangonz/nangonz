@@ -35,4 +35,5 @@ https://pokemons-spa.vercel.app/
 
 ## How to reach me
 https://www.linkedin.com/in/dami-gonzalez/
+<br>
 nangonz91@gmail.com
