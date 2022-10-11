@@ -1,5 +1,5 @@
 ![profilePic](./src/github-profile.gif)
-# #lifelongLearning
+#lifelongLearning
 
 
 - 🔭 I’m currently working on a web development project related to an eCommerce...
