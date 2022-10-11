@@ -6,10 +6,6 @@
 
 - HTML, CSS, Javascript, React, Redux, Node, Express, postgresSQL, Sequelize
 
-## 📎My Projects
-https://pokemons-spa.vercel.app/
-
-
 ## 😏About me
 
 Soy desarrollador web, puedo desempeñarme como Front-end engineer,  
@@ -26,6 +22,9 @@ Marco Común Europeo de Referencia para las lenguas).
 
 Puedes contactarme escribiéndome a:
 nangonz91@gmail.com
+
+## 📎My Projects
+https://pokemons-spa.vercel.app/
 
 ## ➕More info
 - 🔭 I’m currently working on a web development project related to an eCommerce...
