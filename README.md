@@ -1,6 +1,9 @@
 ![profilePic](./src/github-profile.gif)
 #lifelongLearning
 
+# Languages and tools
+![languages and tools](./src/fullstack.png)
+
 
 - 🔭 I’m currently working on a web development project related to an eCommerce...
 - 🌱 I’m currently learning Typescript and React Native...
