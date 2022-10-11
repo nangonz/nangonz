@@ -3,7 +3,8 @@
 
 ## 😏About me
 
-Soy desarrollador web, actualmente utilizo el stack PERN para realizar proyectos que sean escalables y modularizables.  
+Soy desarrollador web, puedo desempeñarme como Front-end engineer, Back-end engineer o Fullstack (seniority level junior advanced),  
+actualmente utilizo el stack PERN para realizar proyectos que sean escalables y modularizables.  
 Poseo conocimientos en tecnologías como HTML, CSS, Javascript, React, Node, express, postgresSQL y sequelize. 
 
 Soy proactivo, tenaz y comprometido, me encantan los entornos de desarrollo cooperativos y de trabajo en equipo  
