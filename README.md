@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![profilePic](./src/github-profile.gif)
+
 
 - 🔭 I’m currently working on a web development project related to an eCommerce...
 - 🌱 I’m currently learning Typescript and React Native...
