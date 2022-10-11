@@ -1,6 +1,14 @@
 ![profilePic](./src/github-profile.gif)
 #lifelongLearning
 
+## 😍Languages and tools
+![languages and tools](./src/fullstack.png)
+
+- HTML, CSS, Javascript, React, Redux, Node, Express, postgresSQL, Sequelize
+
+## 📎My Projects
+https://pokemons-spa.vercel.app/
+
 ## 😏About me
 
 Soy desarrollador web, puedo desempeñarme como Front-end engineer,  
@@ -18,25 +26,13 @@ Marco Común Europeo de Referencia para las lenguas).
 Puedes contactarme escribiéndome a:
 nangonz91@gmail.com
 
-## 😍Languages and tools
-![languages and tools](./src/fullstack.png)
-
-- HTML
-- CSS
-- Javascript
-- React
-- Redux
-- Node
-- Express
-- postgresSQL
-- Sequelize
-
-## 📎My Projects
-
-
 ## ➕More info
 - 🔭 I’m currently working on a web development project related to an eCommerce...
 - 🌱 I’m currently learning Typescript and React Native...
 - 👯 I’m looking to collaborate on web development projects...
 - 📫 How to reach me: nangonz91@gmail.com...
 - 😄 Pronouns: He/Him
+
+## How to reach me
+https://www.linkedin.com/in/dami-gonzalez/
+nangonz91@gmail.com
