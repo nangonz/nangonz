@@ -1,7 +1,7 @@
 ![profilePic](./src/github-profile.gif)
 #lifelongLearning
 
-# Languages and tools
+## Languages and tools
 ![languages and tools](./src/fullstack.png)
 
 
