@@ -24,13 +24,13 @@ Puedes contactarme escribiéndome a:
 nangonz91@gmail.com
 
 ## 📎My Projects
-- ## Pokémon SPA: https://pokemons-spa.vercel.app/  
-![Pokemon screenshots](./src/pokemonSPA-screenshots.png)
+- ## Tecnoshop e-commerce: https://e-commerce-pf-henna.vercel.app/
+![Tecnoshop screenshots](./src/Tecnoshop-Screenshots.png)
 
 <br>
 
-- ## Tecnoshop e-commerce: https://e-commerce-pf-henna.vercel.app/
-![Tecnoshop screenshots](./src/Tecnoshop-Screenshots.png)
+- ## Pokémon SPA: https://pokemons-spa.vercel.app/  
+![Pokemon screenshots](./src/pokemonSPA-screenshots.png)
 
 ## ➕More info
 - 🔭 I’m currently working on a web development project related to an eCommerce...
