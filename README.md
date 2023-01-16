@@ -20,7 +20,19 @@ Tengo background en Contabilidad y Administración y me apasiona la tecnología.
 Poseo un Sólido manejo del inglés tanto oral como escrito (C2 Proficient  
 Marco Común Europeo de Referencia para las lenguas).
 
-Puedes contactarme escribiéndome a:
+Puedes contactarme escribiéndome a:  
+nangonz91@gmail.com  
+
+<br>
+
+I'm a Fullstack web developer with experience using technologies such as Javascript,   
+HTML, CSS, React, Redux, postgreSQL, sequelize, Node and Express.  
+
+I am a results-oriented, organized and methodical individual, able to work well both  
+in a team enviroment as well as using own initiative. I'm seeking employment which  
+will allow development, growth and make use of my existing skills.
+
+If you require any further information, feel free to contact me.  
 nangonz91@gmail.com
 
 ## 📎My Projects
