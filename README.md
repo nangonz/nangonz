@@ -1,4 +1,4 @@
-![profilePic](./src/github-profile-large.gif)
+![profilePic](./src/PortadaGithub.png)
 #lifelongLearning
 
 ## 😍Languages and tools
