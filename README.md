@@ -1,9 +1,9 @@
 ![profilePic](./src/PortadaGithub.png)
 #lifelongLearning
 <p align='center'>
-<a href=''><img src='./src/twitterbutton' alt='twitter link' /></a>
-<a href=''><img src='./src/LinkedinButton' alt='twitter link' /></a>
-<a href=''><img src='./src/PortfolioButton' alt='twitter link' /></a>
+<a href='https://twitter.com/nang0nz'><img src='./src/twitterbutton.png' alt='twitter link' /></a>
+<a href=''><img src='./src/LinkedinButton.png' alt='twitter link' /></a>
+<a href=''><img src='./src/PortfolioButton.png' alt='twitter link' /></a>
 </p>
 <!-- Tech Skills, Frameworks and Libraries SECTION-->
 <details>
