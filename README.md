@@ -11,9 +11,7 @@
 <!-- Important Projects SECTION -->
 <details>
     <summary><h2>💼 Important Projects</h2></summary>
-    <a href='https://www.youtube.com/watch?v=UWWrFgAO3vo' target='_blank'>
-        <h2>Tecnoshop e-commerce App </h2>
-    </a>
+    <a href='https://www.youtube.com/watch?v=UWWrFgAO3vo' target='_blank'><h2>Tecnoshop e-commerce App </h2></a>
         <details>
             <summary><h3>Description</h3></summary>
             <p>Agile development team with one week sprints presenting to a Product Owner progress on the <strong>development of a complete E-commerce app</strong> with design and development of basic ecommerce features (CRUD of products, auth, catalog, checkout, etc..).</p>
@@ -27,9 +25,7 @@
             </ul>
         </details>    
     <img width='80%' src='./src/Tecnoshop-Screenshots.png' alt='Tecnoshop screenshots'>
-    <a href='https://www.youtube.com/watch?v=KTQ11pD6yeg' target='_blank'>
-        <h2>Pokemon Single Page Aplication</h2>
-    </a>
+    <a href='https://www.youtube.com/watch?v=KTQ11pD6yeg' target='_blank'><h2>Pokemon Single Page Aplication</h2></a>
     <details>
         <summary><h3>Description</h3></summary>
         <p>Development of a Single Page Aplication on React, Redux, NodeJS, ExpressJS, Sequelize with <strong>search</strong>, <strong>filtering</strong>, <strong>sorting</strong> and <strong>resource creation</strong>.</p>
@@ -40,7 +36,7 @@
 <!-- About me SECTION -->
 <details>
     <summary><h2>🧑🏻 Sobre mí / About me</h2></summary>
-<p align='center' font-size='18 px'>👋🏻¡Hola! <strong>Soy Damian, Desarrollador Frontend y estudiante
+<p align='center'>👋🏻¡Hola! <strong>Soy Damian, Desarrollador Frontend y estudiante
 de diseño UX/UI</strong> con conocimientos en <em>Javascript, HTML5, CSS, React, Redux, 
 Node, Express, PostgreSQL, Sequelize</em>. Durante mi formación he sido parte de equipos de trabajo multiculturales
 donde pude desarrollar <strong>habilidades de comunicación</strong> y de <strong>trabajo en equipo</strong>
