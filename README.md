@@ -2,9 +2,7 @@
 #lifelongLearning
 <p align='center'>
     <a href='https://twitter.com/nang0nz'><img src='./src/twitterbutton.png' alt='twitter link' /></a>
-    <vr>
     <a href='https://www.linkedin.com/in/dami-gonzalez/'><img src='./src/linkedbutton.png' alt='linkedin link' /></a>
-    <vr>
     <a href='https://damiangonzalez.tech/'><img src='./src/portfolio.png' alt='portfolio link' /></a>
 </p>
 <!-- Tech Skills, Frameworks and Libraries SECTION-->
