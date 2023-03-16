@@ -54,7 +54,7 @@
 </details>
 
 <!-- About me SECTION -->
-<details>
+<details open>
     <summary><h2>🧑🏻 Sobre mí / About me</h2></summary>
 <p align='center'>👋🏻¡Hola! <strong>Soy Damian, Desarrollador Frontend y estudiante
 de diseño UX/UI</strong> con conocimientos en <em>Javascript, HTML5, CSS, React, Redux, 
