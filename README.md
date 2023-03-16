@@ -66,8 +66,8 @@
     semana. Esto me ha permitido aumentar mi <strong>orientación a resultados</strong> y <strong>capacidad
     de resolucion de problemas</strong>.</p>
     <br>
-    <fieldset><strong>Puedes contactarme escribiéndome a:  
-    nangonz91@gmail.com</strong></fieldset>
+    <p><strong>Puedes contactarme escribiéndome a:  
+    nangonz91@gmail.com</strong></p>
     <hr>
     <p align='center'>👋🏻Hi! <strong>I'm Damian, Fullstack Developer and UX/UI design student</strong>
     <em>with knowledge in Javascript, HTML5, CSS, React, Redux, Node, 
