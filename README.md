@@ -1,4 +1,4 @@
-![profilePic](./src/PortadaGithub.png)
+![profilePic](./src/PortadaGit.png)
 #lifelongLearning
 <p align='center'>
     <a href='https://twitter.com/nang0nz'><img src='./src/twitterbutton.png' alt='twitter link' /></a>
