@@ -1,5 +1,6 @@
 ![profilePic](./src/PortadaGit.png)
 #lifelongLearning
+<!-- Social Media Links -->
 <p align='center'>
     <a href='https://twitter.com/nang0nz'><img src='./src/twitterbutton.png' alt='twitter link' /></a>
     <a href='https://www.linkedin.com/in/dami-gonzalez/'><img src='./src/linkedbutton.png' alt='linkedin link' /></a>
@@ -56,22 +57,21 @@
 <!-- About me SECTION -->
 <details open>
     <summary><h2>🧑🏻 Sobre mí / About me</h2></summary>
-<p align='center'>👋🏻¡Hola! <strong>Soy Damian, Desarrollador Frontend y estudiante
-de diseño UX/UI</strong> con conocimientos en <em>Javascript, HTML5, CSS, React, Redux, 
-Node, Express, PostgreSQL, Sequelize</em>. Durante mi formación he sido parte de equipos de trabajo multiculturales
-donde pude desarrollar <strong>habilidades de comunicación</strong> y de <strong>trabajo en equipo</strong>
-participando en el desarrollo frontend y backend de aplicaciones web
-implementando una metodología de trabajo ágil con sprints de una
-semana. Esto me ha permitido aumentar mi <strong>orientación a resultados</strong> y <strong>capacidad
-de resolucion de problemas</strong>.
+    <p align='center'>👋🏻¡Hola! <strong>Soy Damian, Desarrollador Frontend y estudiante
+    de diseño UX/UI</strong> con conocimientos en <em>Javascript, HTML5, CSS, React, Redux, 
+    Node, Express, PostgreSQL, Sequelize</em>. Durante mi formación he sido parte de equipos de trabajo multiculturales
+    donde pude desarrollar <strong>habilidades de comunicación</strong> y de <strong>trabajo en equipo</strong>
+    participando en el desarrollo frontend y backend de aplicaciones web
+    implementando una metodología de trabajo ágil con sprints de una
+    semana. Esto me ha permitido aumentar mi <strong>orientación a resultados</strong> y <strong>capacidad
+    de resolucion de problemas</strong>.
+    <strong>Puedes contactarme escribiéndome a:  
+    nangonz91@gmail.com</strong></p>
+    <hr>
+    <p align='center'>👋🏻Hi! <strong>I'm Damian, Fullstack Developer and UX/UI design student</strong>
+    <em>with knowledge in Javascript, HTML5, CSS, React, Redux, Node, 
+    Express, PostgreSQL, Sequelize.</em> I've been part of multicultural work teams which has allowed me to develop <strong>communication</strong> and <strong>teamwork skills</strong> participating in the frontend and backend development of web applications implementing an agile work methodology with one-week sprints. This helped me to increase my <strong>results orientation</strong> and <strong>problem solving skills</strong>.
 
-<strong>Puedes contactarme escribiéndome a:  
-nangonz91@gmail.com</strong></p>
-<hr>
-<p align='center'>👋🏻Hi! <strong>I'm Damian, Fullstack Developer and UX/UI design student</strong>
-<em>with knowledge in Javascript, HTML5, CSS, React, Redux, Node, 
-Express, PostgreSQL, Sequelize.</em> I've been part of multicultural work teams which has allowed me to develop <strong>communication</strong> and <strong>teamwork skills</strong> participating in the frontend and backend development of web applications implementing an agile work methodology with one-week sprints. This helped me to increase my <strong>results orientation</strong> and <strong>problem solving skills</strong>.
-
-<strong>You can contact me on LinkedIn or send me an email to:  
-nangonz91@gmail.com</strong></p> 
+    <strong>You can contact me on LinkedIn or send me an email to:  
+    nangonz91@gmail.com</strong></p> 
 </details>
