@@ -15,8 +15,17 @@
 <!-- Important Projects SECTION -->
 <details>
     <summary><h2>💼 Important Projects</h2></summary>
-    <h2>1. Tecnoshop e-commerce App </h2>
-    <a href='https://www.youtube.com/watch?v=UWWrFgAO3vo' target='_blank'>DEPLOY</a>
+    <p>
+        <h2>1. Tecnoshop e-commerce App </h2>
+        <a href='https://www.youtube.com/watch?v=UWWrFgAO3vo' target='_blank'>
+        <img src='./src/Youtubelink.png' alt='link to project video' />
+        <h2>Youtube video</h2>
+        </a>
+        <a href='https://e-commerce-tecnoshop.vercel.app/' target='_blank'>
+        <img src='./src/worlwideweb.png' alt='link to deployed project' />
+        <h2>Deployed Project</h2>
+        </a>
+    </p>
         <details>
             <summary><h3>Description</h3></summary>
             <p>Agile development team with one week sprints presenting to a Product Owner progress on the <strong>development of a complete E-commerce app</strong> with design and development of basic ecommerce features (CRUD of products, auth, catalog, checkout, etc..).</p>
