@@ -15,15 +15,13 @@
 <!-- Important Projects SECTION -->
 <details>
     <summary><h2>💼 Important Projects</h2></summary>
+    <h2>1. Tecnoshop e-commerce App </h2>
     <p>
-        <h2>1. Tecnoshop e-commerce App </h2>
         <a href='https://www.youtube.com/watch?v=UWWrFgAO3vo' target='_blank'>
         <img src='./src/Youtubelink.png' alt='link to project video' />
-        <h2>Youtube video</h2>
         </a>
         <a href='https://e-commerce-tecnoshop.vercel.app/' target='_blank'>
         <img src='./src/worlwideweb.png' alt='link to deployed project' />
-        <h2>Deployed Project</h2>
         </a>
     </p>
         <details>
@@ -40,7 +38,14 @@
         </details>    
     <img width='80%' src='./src/Tecnoshop-Screenshots.png' alt='Tecnoshop screenshots'>
     <h2>2. Pokemon Single Page Aplication</h2>
-    <a href='https://www.youtube.com/watch?v=KTQ11pD6yeg' target='_blank'>DEPLOY</a>
+    <p>
+        <a href='https://www.youtube.com/watch?v=KTQ11pD6yeg' target='_blank'>
+        <img src='./src/Youtubelink.png' alt='link to project video' />
+        </a>
+        <a href='https://poke-app-seven.vercel.app/' target='_blank'>
+        <img src='./src/worlwideweb.png' alt='link to deployed project' />
+        </a>
+    </p>
     <details>
         <summary><h3>Description</h3></summary>
         <p>Development of a Single Page Aplication on React, Redux, NodeJS, ExpressJS, Sequelize with <strong>search</strong>, <strong>filtering</strong>, <strong>sorting</strong> and <strong>resource creation</strong>.</p>
