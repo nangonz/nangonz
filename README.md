@@ -65,13 +65,14 @@
     implementando una metodología de trabajo ágil con sprints de una
     semana. Esto me ha permitido aumentar mi <strong>orientación a resultados</strong> y <strong>capacidad
     de resolucion de problemas</strong>.
+    <br>
     <strong>Puedes contactarme escribiéndome a:  
     nangonz91@gmail.com</strong></p>
     <hr>
     <p align='center'>👋🏻Hi! <strong>I'm Damian, Fullstack Developer and UX/UI design student</strong>
     <em>with knowledge in Javascript, HTML5, CSS, React, Redux, Node, 
     Express, PostgreSQL, Sequelize.</em> I've been part of multicultural work teams which has allowed me to develop <strong>communication</strong> and <strong>teamwork skills</strong> participating in the frontend and backend development of web applications implementing an agile work methodology with one-week sprints. This helped me to increase my <strong>results orientation</strong> and <strong>problem solving skills</strong>.
-
+    <br>
     <strong>You can contact me on LinkedIn or send me an email to:  
     nangonz91@gmail.com</strong></p> 
 </details>
