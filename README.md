@@ -24,7 +24,7 @@
         <img src='./src/worlwideweb.png' alt='link to deployed project' />
         </a>
     </p>
-        <details>
+        <details open>
             <summary><h3>Description</h3></summary>
             <p>Agile development team with one week sprints presenting to a Product Owner progress on the <strong>development of a complete E-commerce app</strong> with design and development of basic ecommerce features (CRUD of products, auth, catalog, checkout, etc..).</p>
             <ul>
@@ -46,7 +46,7 @@
         <img src='./src/worlwideweb.png' alt='link to deployed project' />
         </a>
     </p>
-    <details>
+    <details open>
         <summary><h3>Description</h3></summary>
         <p>Development of a Single Page Aplication on React, Redux, NodeJS, ExpressJS, Sequelize with <strong>search</strong>, <strong>filtering</strong>, <strong>sorting</strong> and <strong>resource creation</strong>.</p>
     </details>  
