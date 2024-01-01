@@ -1,4 +1,4 @@
-![profilePic](./src/PortadaGit.png)
+![profilePic](./src/PortadaGitDG.png)
 <br>
 <!-- Social Media Links -->
 <p align='center'>
