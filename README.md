@@ -16,7 +16,9 @@
 <!-- About me SECTION -->
 <details open>
     <summary><h2>👋🏼 ABOUT ME</h2></summary>
-    <h3>Javascript Frontend Developer with knowledge in React, Node, Express, PostgreSQL and Sequelize and UX UI. I've been part of multicultural work teams which has allowed me to develop communication and teamwork skills participating in the frontend and backend development of web applications implementing an agile work methodology. This has helped me increase my results orientation and problem solving skills.</h3>
+    <h3>
+    Javascript Frontend Developer with knowledge in React, Node, Express, PostgreSQL and Sequelize and UX UI. I've been part of multicultural work teams which has allowed me to develop communication and teamwork skills participating in the frontend and backend development of web applications implementing an agile work methodology.
+    </h3>
 </details>
 
 <!-- Important Projects SECTION -->
