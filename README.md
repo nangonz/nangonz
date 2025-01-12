@@ -1,7 +1,8 @@
-![profilePic](./assets/portada-profile.png)
+![profilePic](./assets/GithubBanner.png)
 <br>
+
 <!-- Social Media Links -->
-<img align="right" alt="GIF" src="./assets/banner.png" width="180px" />
+<img align="right" alt="GIF" src="./assets/frontPic.png" width="200px" />
 
 ## What i'm up to
 
